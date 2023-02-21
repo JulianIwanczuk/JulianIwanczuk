@@ -4,7 +4,11 @@
 <h1 align="center">Hi! My name is Julián</h1>
 <p align="center">Full Stack Developer</p>
 
-Hey everyone! I'm a passionate fullstack developer with experience in large-scale projects. Over the past 5 years, I've had the opportunity to work with some of the largest companies in South America, the United States, and Europe, developing projects for the use of thousands of users. As a fullstack developer, I have a deep understanding of the technical aspects of web and mobile application development, allowing me to work across the entire software development life cycle. I have also tackled complex problems and worked on teams of up to 12 people. I've enjoyed working on a variety of projects, from developing intuitive user interfaces to building robust backend systems. My experience has allowed me to become skilled in a variety of programming languages, including JavaScript, Python, and Ruby on Rails. Whether I'm working independently or as part of a team, I'm committed to delivering high-quality, scalable solutions that meet the needs of my clients. So if you're looking for a developer who can take your project to the next level, let's connect and get to work!
+Hey everyone! I'm a passionate fullstack developer with experience in large-scale projects. Over the past 5 years, I've had the opportunity to work with some of the largest companies in South America, the United States, and Europe, developing projects for the use of thousands of users. 
+
+As a fullstack developer, I have a deep understanding of the technical aspects of web and mobile application development, allowing me to work across the entire software development life cycle. I have also tackled complex problems and worked on teams of up to 12 people. I've enjoyed working on a variety of projects, from developing intuitive user interfaces to building robust backend systems. 
+
+My experience has allowed me to become skilled in a variety of programming languages, including JavaScript, Python, among others. Whether I'm working independently or as part of a team, I'm committed to delivering high-quality, scalable solutions that meet the needs of my clients. So if you're looking for a developer who can take your project to the next level, let's connect and get to work!
 
 * 🌍  I'm based in Argentina
 * ✉️  You can contact me at [julian@terratenea.com](mailto:julian@terratenea.com)
